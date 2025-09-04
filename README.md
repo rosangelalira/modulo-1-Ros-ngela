@@ -1,7 +1,5 @@
-## RECEITA DE BOLO DE CHOCOLATE 
-
-- 2 xícaras de farinha
-- 3 ovos
-- 1 xícara de açúcar
-- 1 xícara de chocolate em pó
-- 1 xícara de leite
+### RECEITA DE MACARRÃO COM QUEIJO
+- 1 Pacote de macarrão
+- 200g de queijo ralado
+- 1 copo de leite
+- Sal a gosto
